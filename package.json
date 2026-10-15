@@ -1,6 +1,6 @@
 {
   "name": "safe-path-resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Resolves paths while preventing escapes outside a root boundary for sandboxed file access.",
   "type": "module",
   "main": "src/index.js",
